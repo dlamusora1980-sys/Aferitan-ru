@@ -1,0 +1,4 @@
+/static/
+/templates/
+/bin/
+node_modules/
